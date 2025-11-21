@@ -10,7 +10,7 @@
 
 ## 🚀 Demo of the App
 
-- **🔴 Live App:** [https://fitness-coach-lemon.vercel.app/]
+- **🔴 Live App:** [https://fitness-coach-rho.vercel.app/]
 - **🎥 Video Demo:** [https://drive.google.com/file/d/1QQDa6PFIM4gSWiiRq61FbNxCn87w-0Pp/view?usp=sharing]
 
 ---
